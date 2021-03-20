@@ -1,0 +1,7 @@
+# Handle line endings automatically for files detected as text
+# and leave all files detected as binary untouched.
+# do end-of-line conversion - always to lf
+* text=auto eol=lf
+
+# These are explicitly windows files and should use crlf
+*.bat text eol=crlf
