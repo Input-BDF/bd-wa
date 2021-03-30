@@ -48,7 +48,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.bd-club.de"
+                 "value":"https:\/\/www.bd-club.de\/front_static.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
