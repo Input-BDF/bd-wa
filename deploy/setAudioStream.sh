@@ -9,19 +9,19 @@ export TZ
 DOW=$(date +%u)
 
 STREAM_DAY_URLS[1]="https://stream.radioparadise.com/mp3-128"
-STREAM_NIGHT_URLS[1]="https://sunshinelive.hoerradar.de/sunshinelive-edm-mp3-hq"
+STREAM_NIGHT_URLS[1]="https://stream.radioparadise.com/mp3-128"
 STREAM_DAY_URLS[2]="https://stream.radioparadise.com/mp3-128"
-STREAM_NIGHT_URLS[2]="https://sunshinelive.hoerradar.de/sunshinelive-edm-mp3-hq"
+STREAM_NIGHT_URLS[2]="https://stream.radioparadise.com/mp3-128"
 STREAM_DAY_URLS[3]="https://stream.radioparadise.com/mp3-128"
-STREAM_NIGHT_URLS[3]="https://sunshinelive.hoerradar.de/sunshinelive-house-mp3-hq"
+STREAM_NIGHT_URLS[3]="https://stream.radioparadise.com/mp3-128"
 STREAM_DAY_URLS[4]="https://stream.radioparadise.com/mp3-128"
-STREAM_NIGHT_URLS[4]="https://sunshinelive.hoerradar.de/sunshinelive-house-mp3-hq"
+STREAM_NIGHT_URLS[4]="https://stream.radioparadise.com/mp3-128"
 STREAM_DAY_URLS[5]="https://stream.radioparadise.com/mp3-128"
-STREAM_NIGHT_URLS[5]="https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-hq"
+STREAM_NIGHT_URLS[5]="https://stream.radioparadise.com/mp3-128"
 STREAM_DAY_URLS[6]="https://stream.radioparadise.com/mp3-128"
-STREAM_NIGHT_URLS[6]="https://sunshinelive.hoerradar.de/sunshinelive-techno-mp3-hq"
+STREAM_NIGHT_URLS[6]="https://stream.radioparadise.com/mp3-128"
 STREAM_DAY_URLS[7]="https://stream.radioparadise.com/mp3-128"
-STREAM_NIGHT_URLS[7]="https://sunshinelive.hoerradar.de/sunshinelive-techno-mp3-hq"
+STREAM_NIGHT_URLS[7]="https://stream.radioparadise.com/mp3-128"
 
 PLACEHOLDER="--streamurl--"
 
