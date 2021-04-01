@@ -9,19 +9,19 @@ export TZ
 DOW=$(date +%u)
 
 STREAM_DAY_URLS[1]="http://stream.zeno.fm/1q67s9mt6mzuv"
-STREAM_NIGHT_URLS[1]="http://stream.zeno.fm/1q67s9mt6mzuv"
+STREAM_NIGHT_URLS[1]="http://stream.zeno.fm/3dee7zszxwzuv"
 STREAM_DAY_URLS[2]="http://stream.zeno.fm/1q67s9mt6mzuv"
-STREAM_NIGHT_URLS[2]="http://stream.zeno.fm/1q67s9mt6mzuv"
+STREAM_NIGHT_URLS[2]="http://stream.zeno.fm/3dee7zszxwzuv"
 STREAM_DAY_URLS[3]="http://stream.zeno.fm/1q67s9mt6mzuv"
-STREAM_NIGHT_URLS[3]="http://stream.zeno.fm/1q67s9mt6mzuv"
+STREAM_NIGHT_URLS[3]="http://stream.zeno.fm/3dee7zszxwzuv"
 STREAM_DAY_URLS[4]="http://stream.zeno.fm/1q67s9mt6mzuv"
-STREAM_NIGHT_URLS[4]="http://stream.zeno.fm/1q67s9mt6mzuv"
+STREAM_NIGHT_URLS[4]="http://stream.zeno.fm/3dee7zszxwzuv"
 STREAM_DAY_URLS[5]="http://stream.zeno.fm/1q67s9mt6mzuv"
-STREAM_NIGHT_URLS[5]="http://stream.zeno.fm/1q67s9mt6mzuv"
+STREAM_NIGHT_URLS[5]="http://stream.zeno.fm/3dee7zszxwzuv"
 STREAM_DAY_URLS[6]="http://stream.zeno.fm/1q67s9mt6mzuv"
-STREAM_NIGHT_URLS[6]="http://stream.zeno.fm/1q67s9mt6mzuv"
+STREAM_NIGHT_URLS[6]="http://stream.zeno.fm/3dee7zszxwzuv"
 STREAM_DAY_URLS[7]="http://stream.zeno.fm/1q67s9mt6mzuv"
-STREAM_NIGHT_URLS[7]="http://stream.zeno.fm/1q67s9mt6mzuv"
+STREAM_NIGHT_URLS[7]="http://stream.zeno.fm/3dee7zszxwzuv"
 
 PLACEHOLDER="--streamurl--"
 
