@@ -71,7 +71,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"music_advise.html"
+                 "value":"https:\/\/www.bd-club.de\/music_advise.html"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
