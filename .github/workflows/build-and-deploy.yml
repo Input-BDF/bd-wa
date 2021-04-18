@@ -1,11 +1,11 @@
-name: Optimize map and deploy
+name: Optimize map and deploy vereinspraesi
 on:
   schedule:
     - cron: "1 6 * * *" # 7:01 German time
     - cron: "1 17 * * *" #18:01 German time
   push:
     branches:
-      - master
+      - vpmaster
 
 jobs:
   deploy:
@@ -21,7 +21,7 @@ jobs:
       - name: Bash
         run: |
           ls -al          
-          git checkout master
+          git checkout vpmaster
           git config --global user.email "$(git log HEAD --pretty=format:'%ae')"
           git config --global user.name "$(git log -1 --pretty=format:'%an')"
           deploy/setAudioStream.sh
@@ -32,9 +32,9 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: deploy # The branch the action should deploy to.
+          BRANCH: vereinspraesi # The branch the action should deploy to.
           FOLDER: . # The folder the action should deploy.
-          BASE_BRANCH: master
+          BASE_BRANCH: vpmaster
 
       - name: Bash2
         run: |
